@@ -1,0 +1,4 @@
+ARTIFACTS_FOLDER : 'artifacts'
+TRAIN_DATA: 'train.csv'
+TEST_DATA: 'test.csv'
+
